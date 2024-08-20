@@ -6,7 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/danishaazra_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="danishaazra_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/danisha-mohamad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danisha-mohamad" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/danisha-mohamad-b9702a301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danisha-mohamad-b9702a301" height="30" width="40" /></a>
 <a href="https://instagram.com/danishaazra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="danishaazra" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/danisha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="danisha" height="30" width="40" /></a>
 <a href="https://discord.gg/wonwazrx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wonwazrx" height="30" width="40" /></a>
