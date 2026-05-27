@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danisha Mohamad</h1>
-<h3 align="center">Currently pursuing a Bachelor of Software Engineering with Honours at University Putra Malaysia. This GitHub is where I showcase all my projects—both those I've created on my own and those I've collaborated on with friends. Feel free to explore and check out the work I've done!</h3>
+<h3 align="center">Currently pursuing a Bachelor of Software Engineering with Honours at University Putra Malaysia. This GitHub is where I showcase all my projects, both those I've created on my own and those I've collaborated on with friends. Feel free to explore and check out the work I've done!</h3>
 
 - 📫 How to reach me **danishaazra34@gmail.com**
 
