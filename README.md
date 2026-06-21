@@ -18,9 +18,9 @@ I enjoy building practical solutions, exploring new technologies, and transformi
 
 ☁️ AWS Certified Cloud Practitioner
 
-🏆 2nd Runner-Up, CodeNection 2025
+🏆 2nd Runner-Up, CodeNection 2025, MMU
 
-🥇 Gold Award Winner, Student Design Challenge FUSION 2024
+🥇 Gold Award Winner, Student Design Challenge FUSION 2024, Asia Pacific University(APU)
 
 📱 Interested in Full Stack Development, Cloud Computing, Software Engineering, and UI/UX Design
 
