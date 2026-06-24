@@ -75,8 +75,11 @@ I enjoy building practical solutions, exploring new technologies, and transformi
 
 ## 📌 Featured Projects
 
-### 🔹 IT Inventory Management System
-RFID & QR Code-based inventory management system developed for asset tracking, maintenance scheduling, and inspection management.
+### 🔹 Final Year Project (FYP)
+
+***Information Technology (IT) Inventory Management System Using RFID and QR Code-Based Approach***
+
+A Final Year Project developed to enhance the management and tracking of IT assets through the integration of RFID and QR Code technologies. The system enables efficient asset registration, tracking, verification, maintenance scheduling, inspection management, and reporting, providing a centralized platform for improving inventory visibility and operational efficiency.
 
 ### 🔹 Hello Chickgu
 Educational platform developed during CodeNection 2025 competition.
