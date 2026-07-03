@@ -16,13 +16,12 @@ I enjoy building practical solutions, exploring new technologies, and transformi
 
 🎓 Final Year Bachelor of Software Engineering (Hons.) Student at Universiti Putra Malaysia (UPM)
 
-☁️ AWS Certified Cloud Practitioner
 
 🏆 2nd Runner-Up, CodeNection 2025, MMU
 
 🥇 Gold Award Winner, Student Design Challenge FUSION 2024, Asia Pacific University(APU)
 
-📱 Interested in Full Stack Development, Cloud Computing, Software Engineering, and UI/UX Design
+📱 Interested in Front-end development, and UI/UX Design
 
 🌱 Currently learning Laravel, PostgreSQL, Node.js, and Cloud Technologies
 
