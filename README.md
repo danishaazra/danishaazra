@@ -16,7 +16,6 @@ I enjoy turning ideas and requirements into functional systems while continuousl
 
 * Bachelor of Software Engineering (Hons.) student at Universiti Putra Malaysia (UPM)
 * Interested in software development, web applications, and UI/UX design
-* Email: **[danishaazra34@gmail.com](mailto:danishaazra34@gmail.com)**
 
 ---
 
