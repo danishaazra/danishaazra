@@ -15,9 +15,6 @@ I enjoy turning ideas and requirements into functional systems while continuousl
 ## About Me
 
 * Bachelor of Software Engineering (Hons.) student at Universiti Putra Malaysia (UPM)
-* Gold Award, CSIT-UPM International Final Year Project (iFYP) 2026
-* 2nd Runner-Up, CodeNection 2025, Multimedia University (MMU)
-* Gold Award, Student Design Challenge FUSION 2024, Asia Pacific University (APU)
 * Interested in software development, web applications, and UI/UX design
 * Email: **[danishaazra34@gmail.com](mailto:danishaazra34@gmail.com)**
 
@@ -91,9 +88,5 @@ AI Based Fashion Application
 ### ezpzFARM
 Animal Alert System
 [Figma Design](https://www.figma.com/design/L6EwlYDCk3pXoI1yojoejJ/ezpzFARM?node-id=0-1&t=2VH4bPuAxmqGMrvb-1)
-
-### Asmaraloka
-Wedding Planning Web Application
-
 
 ---
