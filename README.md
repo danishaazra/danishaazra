@@ -92,5 +92,8 @@ AI Based Fashion Application
 Animal Alert System
 [Figma Design](https://www.figma.com/design/L6EwlYDCk3pXoI1yojoejJ/ezpzFARM?node-id=0-1&t=2VH4bPuAxmqGMrvb-1)
 
+### Asmaraloka
+Wedding Planning Web Application
+
 
 ---
