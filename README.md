@@ -70,7 +70,7 @@ I enjoy turning ideas and requirements into functional systems while continuousl
 
 ---
 
-## Featured Projects
+## Featured Academic Projects
 
 ### Hello Chickgu
 Mobile Educational Game | CodeNection Hackathon 2025, 2nd Runner-Up  
