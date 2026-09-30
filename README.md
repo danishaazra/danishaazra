@@ -72,27 +72,25 @@ I enjoy turning ideas and requirements into functional systems while continuousl
 
 ## Featured Projects
 
-### Final Year Project
-
-**Information Technology (IT) Inventory Management System Using RFID and QR Code Technologies**
-
-An industry-collaborated Final Year Project developed with PKT Logistics (M) Sdn Bhd to improve the management and tracking of IT assets. The system integrates RFID and QR Code technologies to support asset registration, tracking, verification, maintenance scheduling, inspection management, and reporting through a centralized platform.
-
-**CSIT-UPM International Final Year Project (iFYP) 2026 — Gold Award**
-
 ### Hello Chickgu
+Mobile Educational Game | CodeNection Hackathon 2025, 2nd Runner-Up  
+[Figma Design](https://www.figma.com/design/1ja1Oa0a0ycRfMarT0NJQ3G/Chickgu?t=559nf7IvMwLF1Hru-1)
 
-A mobile-based educational game platform developed during CodeNection 2025, designed to support interactive learning and improve student engagement.
+### OnHire
+AI and AR Recruitment System  
+[Figma Design](https://www.figma.com/design/xRquNcE5k4g3wWxe7DCGor/OnHire-HexTech?node-id=0-1&t=IQ4DwqCjUmJrbihd-1)
 
-**CodeNection 2025, Multimedia University — 2nd Runner-Up**
+### IT Inventory Management System
+Final Year Project | Industry Collaboration with PKT Logistics (M) Sdn Bhd  
+[Figma Design](https://www.figma.com/design/rsTRbtldvjICuTw2LxpsRD/FYP-IT-Inventory-PKT-Logistics?t=k55xzPcNvq58uGyW-1)
 
-### Animal Alert System
+### ezpzGLAM
+AI Based Fashion Application  
+[Figma Design](https://www.figma.com/design/z1GbVhVSm9bIL1Owt3W35X/ezpzGLAM?node-id=0-1&t=0HF6UcnQ4Ed7oCIk-1)
 
-An animal alert system designed using the Design Thinking methodology to assist farmers in managing livestock feeding schedules.
-
-**Student Design Challenge FUSION 2024, Asia Pacific University — Gold Award**
+### ezpzFARM
+Animal Alert System
+[Figma Design](https://www.figma.com/design/L6EwlYDCk3pXoI1yojoejJ/ezpzFARM?node-id=0-1&t=2VH4bPuAxmqGMrvb-1)
 
 
 ---
-
-Thank you for visiting my profile.
