@@ -26,7 +26,7 @@ I enjoy turning ideas and requirements into functional systems while continuousl
 ## Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/danisha-mohamad-b9702a301" target="blank">
+<a href="https://linkedin.com/in/danisha-azra target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 
